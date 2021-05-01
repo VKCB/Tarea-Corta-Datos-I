@@ -13,7 +13,7 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
-![imagen1%20(1)](imagen1%20(1).png)
+![imagen (1)](imagen1%20(1).png)
 
 
 ### Minimal system span
