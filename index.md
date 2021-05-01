@@ -51,3 +51,4 @@
 ⇒Elevar nivel 
 
 ⇒Juego terminado
+##### Diagrama Conceptual
