@@ -17,6 +17,7 @@
 
 
 ### Minimal system span
+![im](im.png)
 
 
 #### Plan de iteraciones
