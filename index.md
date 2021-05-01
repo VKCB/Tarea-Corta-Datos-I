@@ -49,4 +49,4 @@
 
 ⇒Elevar nivel 
 
-⇒Juego termiinado
+⇒Juego terminado
