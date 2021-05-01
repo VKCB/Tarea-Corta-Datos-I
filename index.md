@@ -1,9 +1,9 @@
 # Historias de Usuario
- ⇒ El usuario busca jugar una versiòn virtual del juego SimonTec
+ ⇒ El usuario busca jugar una versión virtual del juego SimonTec
  
- ⇒Se espera que tenga una interfaz en forma de circulo la cual estarà dividida en 4 secciones con un ciculo en el centro
+ ⇒Se espera que tenga una interfaz en forma de círculo la cual estará  dividida en 4 secciones con un círculo en el centro
  
- ⇒El circulo en el centro de la interfaz serà con el objetivo que vaya indicando el nivel que se juega
+ ⇒El circulo en el centro de la interfaz será con el objetivo que vaya indicando el nivel que se juega
  
  ⇒Como usuario del juego espero que al precionar algun boton estos funcionen
  
@@ -13,3 +13,4 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
+![CYS](Descargas)
