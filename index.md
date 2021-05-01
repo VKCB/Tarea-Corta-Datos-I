@@ -13,4 +13,9 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
-![CYS](Descargas)
+![Descargas](CYS.PNG)
+
+
+### Minimal system span
+
+
