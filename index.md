@@ -55,4 +55,4 @@
 ![esquema](esquema.png)
 
 #####  Diagrama de clases
-![clase](clase.png)
+![clases](clases.png)
