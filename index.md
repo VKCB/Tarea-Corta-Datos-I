@@ -11,3 +11,5 @@
  
  ⇒Como usuario del juego quiero que este me indique en el momento que pierda
  
+
+## Clasificación según criticidad y frecuencia de uso
