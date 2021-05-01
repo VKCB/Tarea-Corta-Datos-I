@@ -26,17 +26,17 @@
 
 ⇒Crear una clase llamada lista
 
-    ⇒Traer el color random
+   ⇒Traer el color random
   
-    ⇒Crear un nuevo nodo
+   ⇒Crear un nuevo nodo
   
-    ⇒Validar color
+   ⇒Validar color
   
-    ⇒Siguiente nodo
+   ⇒Siguiente nodo
   
-    ⇒Subir nivel
+   ⇒Subir nivel
   
-    ⇒Obtener niveles
+   ⇒Obtener niveles
   
 # Segunda iteraciòn 
 
