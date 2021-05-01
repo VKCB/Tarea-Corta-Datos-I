@@ -13,7 +13,6 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
-![imagen1 (1)](imagen1%20(1).png)
 ![Imagen](Imagen.png)
 
 
@@ -21,24 +20,24 @@
 
 
 #### Plan de iteraciones
-#Primera iteraciòn
+# Primera iteraciòn
 ⇒Crear la clase ventana en la que apareceran los botones
 
 ⇒Crear una clase llamada lista
 
-  ⇒Traer el color random
+    ⇒Traer el color random
   
-  ⇒Crear un nuevo nodo
+    ⇒Crear un nuevo nodo
   
-  ⇒Validar color
+    ⇒Validar color
   
-  ⇒Siguiente nodo
+    ⇒Siguiente nodo
   
-  ⇒Subir nivel
+    ⇒Subir nivel
   
-  ⇒Obtener niveles
+    ⇒Obtener niveles
   
-#Segunda iteraciòn 
+# Segunda iteraciòn 
 
 ⇒Crear un public void nuevo juego
 
