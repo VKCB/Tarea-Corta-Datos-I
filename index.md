@@ -13,9 +13,11 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
-![Descargas](Descargas.PNG)
+
 
 
 ### Minimal system span
 
 
+#### Plan de iteraciones
+#Primera i
