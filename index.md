@@ -13,11 +13,12 @@
  
 
 ## Clasificación según criticidad y frecuencia de uso
-
+![imagen1 (1)]imagen1 (1).png
 
 
 ### Minimal system span
 
 
 #### Plan de iteraciones
-#Primera i
+#Primera iteraciòn
+
