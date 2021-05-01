@@ -52,3 +52,5 @@
 
 ⇒Juego terminado
 ##### Diagrama Conceptual
+![esquema](esquema.png)
+
