@@ -22,17 +22,31 @@
 #### Plan de iteraciones
 #Primera iteraciòn
 ⇒Crear la clase ventana en la que apareceran los botones
+
 ⇒Crear una clase llamada lista
+
   ⇒Traer el color random
+  
   ⇒Crear un nuevo nodo
+  
   ⇒Validar color
+  
   ⇒Siguiente nodo
+  
   ⇒Subir nivel
+  
   ⇒Obtener niveles
+  
 #Segunda iteraciòn 
+
 ⇒Crear un public void nuevo juego
+
 ⇒Imprimir secuencia 
+
 ⇒Habilitar introducir secuencia del usuario
+
 ⇒Siguente nivel
+
 ⇒Elevar nivel 
+
 ⇒Juego termiinado
